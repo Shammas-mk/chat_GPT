@@ -1,16 +1,18 @@
-# chat_gpt
+# Chat_GPT
 
-A new Flutter project.
+with the help of OpenAI API 
 
-## Getting Started
+https://platform.openai.com/
 
-This project is a starting point for a Flutter application.
+# OpenAI has trained cutting-edge language models that are very good at understanding and generating text. Our API provides access to these models and can be used to solve virtually any task that involves processing language.
 
-A few resources to get you started if this is your first Flutter project:
+In this quickstart tutorial, you’ll build a simple sample application. Along the way, you’ll learn key concepts and techniques that are fundamental to using the API for any task, including:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Content generation
+Summarization
+Classification, categorization, and sentiment analysis
+Data extraction
+Translation
+Many more!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
